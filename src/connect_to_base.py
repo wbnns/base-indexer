@@ -17,11 +17,11 @@ w3 = Web3(Web3.HTTPProvider(alchemy_url))
 
 # Check if the connection is successful
 if w3.is_connected():  # Updated this line
-    print("Connected to Base blockchain!")
+    print("Connected to Base!")
 else:
-    print("Failed to connect to Base blockchain.")
+    print("Failed to connect to Base.")
 
 # Example: Fetch the latest block number
 latest_block = w3.eth.block_number
-print(f"Latest block number: {latest_block}")
+print(f"Latest Base block number: {latest_block}")
 
