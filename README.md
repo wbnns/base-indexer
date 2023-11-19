@@ -29,7 +29,7 @@ Instructions on how to use the indexer and the API will be provided once the pro
 
 ## Contributing
 
-Contributions to this project are welcome. Please see the `CONTRIBUTING.md` file for guidelines on how to contribute.
+Contributions to this project are welcome. Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
 
 ## License
 
