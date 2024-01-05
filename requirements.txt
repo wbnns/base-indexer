@@ -22,7 +22,7 @@ lru-dict==1.2.0
 multidict==6.0.4
 parsimonious==0.9.0
 protobuf==4.25.1
-pycryptodome==3.19.0
+pycryptodome==3.19.1
 python-dotenv==1.0.0
 pyunormalize==15.1.0
 referencing==0.31.0
